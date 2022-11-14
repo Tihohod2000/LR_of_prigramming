@@ -1,0 +1,24 @@
+D:\Education\Программирование\ЛР\MdiApplication\MdiApplication\bin\Debug\MdiApplication.exe.config
+D:\Education\Программирование\ЛР\MdiApplication\MdiApplication\bin\Debug\MdiApplication.exe
+D:\Education\Программирование\ЛР\MdiApplication\MdiApplication\bin\Debug\MdiApplication.pdb
+D:\Education\Программирование\ЛР\MdiApplication\MdiApplication\obj\Debug\MdiApplication.csproj.AssemblyReference.cache
+D:\Education\Программирование\ЛР\MdiApplication\MdiApplication\obj\Debug\MdiApplication.csproj.SuggestedBindingRedirects.cache
+D:\Education\Программирование\ЛР\MdiApplication\MdiApplication\obj\Debug\MdiApplication.ParentForm.resources
+D:\Education\Программирование\ЛР\MdiApplication\MdiApplication\obj\Debug\MdiApplication.Properties.Resources.resources
+D:\Education\Программирование\ЛР\MdiApplication\MdiApplication\obj\Debug\MdiApplication.csproj.GenerateResource.cache
+D:\Education\Программирование\ЛР\MdiApplication\MdiApplication\obj\Debug\MdiApplication.csproj.CoreCompileInputs.cache
+D:\Education\Программирование\ЛР\MdiApplication\MdiApplication\obj\Debug\MdiApplication.exe
+D:\Education\Программирование\ЛР\MdiApplication\MdiApplication\obj\Debug\MdiApplication.pdb
+D:\Education\Программирование\ЛР\MdiApplication\MdiApplication\obj\Debug\MdiApplication.ChildForm.resources
+D:\Education\Программирование\ЛР 1\MdiApplication\MdiApplication\bin\Debug\MdiApplication.exe.config
+D:\Education\Программирование\ЛР 1\MdiApplication\MdiApplication\bin\Debug\MdiApplication.exe
+D:\Education\Программирование\ЛР 1\MdiApplication\MdiApplication\bin\Debug\MdiApplication.pdb
+D:\Education\Программирование\ЛР 1\MdiApplication\MdiApplication\obj\Debug\MdiApplication.csproj.AssemblyReference.cache
+D:\Education\Программирование\ЛР 1\MdiApplication\MdiApplication\obj\Debug\MdiApplication.csproj.SuggestedBindingRedirects.cache
+D:\Education\Программирование\ЛР 1\MdiApplication\MdiApplication\obj\Debug\MdiApplication.ChildForm.resources
+D:\Education\Программирование\ЛР 1\MdiApplication\MdiApplication\obj\Debug\MdiApplication.ParentForm.resources
+D:\Education\Программирование\ЛР 1\MdiApplication\MdiApplication\obj\Debug\MdiApplication.Properties.Resources.resources
+D:\Education\Программирование\ЛР 1\MdiApplication\MdiApplication\obj\Debug\MdiApplication.csproj.GenerateResource.cache
+D:\Education\Программирование\ЛР 1\MdiApplication\MdiApplication\obj\Debug\MdiApplication.csproj.CoreCompileInputs.cache
+D:\Education\Программирование\ЛР 1\MdiApplication\MdiApplication\obj\Debug\MdiApplication.exe
+D:\Education\Программирование\ЛР 1\MdiApplication\MdiApplication\obj\Debug\MdiApplication.pdb
